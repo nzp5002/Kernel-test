@@ -1,0 +1,26 @@
+# Objetos e binários
+*.o
+*.a
+*.elf
+*.bin
+
+# Imagens e discos
+*.iso
+*.img
+*.vmdk
+*.vdi
+*.qcow2
+
+# Pastas temporárias
+iso/
+/tmp/
+
+# Backups e arquivos pessoais
+*.old
+*.bak
+*.swp
+*~
+
+# GRUB cache (não versionar)
+.grub-i386/
+
